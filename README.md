@@ -24,7 +24,7 @@ Tudo usando Node.js e [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/whatsapp-terminal-bot.git
+git clone https:/github.com/daviloko00-00/WhatsApp-Via-Terminal-Bot.git
 cd whatsapp-terminal-bot
 
 ---
