@@ -27,12 +27,14 @@ Tudo usando Node.js e [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-
 git clone https:/github.com/daviloko00-00/WhatsApp-Via-Terminal-Bot.git
 cd whatsapp-terminal-bot
 
+```
+
 ---
 
 Instale as dependências:
 ```bash
 npm install whatsapp-web.js qrcode-terminal readline
-
+```
 ---
 
 Execute o boot:
